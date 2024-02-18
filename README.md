@@ -1,3 +1,3 @@
-![Alt text](/Users/sanasiddiqui/Desktop/ByteCoinImage.png)
+![Alt text](ByteCoinImage.png)
 
 
