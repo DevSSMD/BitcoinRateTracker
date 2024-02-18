@@ -7,5 +7,5 @@ and visual stress.
 Previews:
 <img src="ByteCoinImage.png" alt="Alt text" width="200" height="400">
 <img src="ByteCoinImage2.png" alt="Alt text" width="200" height="400">
-<img src="ByteCoinImag3.png" alt="Alt text" width="200" height="400">
-<img src="ByteCoinImag4.png" alt="Alt text" width="200" height="400">
+<img src="ByteCoinImage3.png" alt="Alt text" width="200" height="400">
+<img src="ByteCoinImage4.png" alt="Alt text" width="200" height="400">
