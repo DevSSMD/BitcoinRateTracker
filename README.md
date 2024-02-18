@@ -1,2 +1,3 @@
+![Alt text](/Users/sanasiddiqui/Desktop/ByteCoinImage.png)
 
-![Animation](/Users/sanasiddiqui/Downloads/ByteCoinGif.mp4)
+
