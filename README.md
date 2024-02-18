@@ -1,1 +1,2 @@
-![Alt text](/Users/sanasiddiqui/Downloads/ByteCoinGif.mp4)
+
+![Animation](/Users/sanasiddiqui/Downloads/ByteCoinGif.mp4)
