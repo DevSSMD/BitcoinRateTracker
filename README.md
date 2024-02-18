@@ -3,6 +3,10 @@ ByteCoin is a convenient way to track real-time bitcoin rates in your desired cu
 The app provides an aesthetic and simplistic background to avoid distractions
 and visual stress. 
 
+Currency support: allows currency support across 12 countries.
+
+Download and give it a try!
+
 
 
 
